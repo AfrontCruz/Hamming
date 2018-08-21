@@ -3,7 +3,7 @@ package hamming;
 
 /**
  *
- * @author Juárez Cruz Oscar Daniel | Student from ESCOM IPN
+ * @author Juárez Cruz Oscar Daniel | Student from ESCOM IPN | Mail: danafront0@gmail.com 
  */
 
 public class Hamming {
