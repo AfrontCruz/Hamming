@@ -14,7 +14,7 @@ public class RunHamming {
         Scanner scan = new Scanner(System.in);
         Hamming hamming = new Hamming();
         while( true ){
-            System.out.println("Set 'exit' from get out\n");
+            System.out.println("Put 'exit' for get out\n");
             System.out.print("Get Hamming Word: ");
             String nbm = scan.next();
             System.out.println("\n\n");
